@@ -1,0 +1,53 @@
+body {
+    box-sizing: border-box;
+    font-family: Lato, Arial;
+    text-align: center;
+    color: white;
+    background-color: #595959;
+}
+
+h1 {
+    position: relative;
+    top: 190px;
+    text-transform: uppercase;
+    color: orange;
+    font-size: 30px;
+}
+
+input {
+    display: block;
+    width: 98%;
+    height: 30px;
+    margin-top: 1.0em;
+    padding: 4px;
+    border-radius: 20px;
+}
+
+h2 {
+    color: orange;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.box {
+    padding: 1em 1em 1em 1em;
+    margin: auto;
+    margin-top: 200px;
+    text-align: center;
+    display: block;
+    background-color: black;
+    width: 60%;
+    height: auto;
+    border-radius: 30px;
+}
+
+#loginButton {
+    width: 150px;
+    height: 40px;
+    margin-top: 2.0em;
+    border-radius: 4px;
+    background-color: orange;
+    color: white;
+    border-radius: 20px;
+}
